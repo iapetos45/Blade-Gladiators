@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu/Main.unity
+    guid: c6228a98675e3a9478872d14b179796d
+  - enabled: 1
+    path: Assets/Scenes/Menu/Preferences/Preferences.unity
+    guid: 816069bacfefe1e4fa499722a458375d
+  - enabled: 1
+    path: Assets/Scenes/Menu/Market/Market.unity
+    guid: 0a30a2cc55cf3514a9d4eb612a73cd32
+  - enabled: 1
+    path: Assets/Scenes/Menu/Multiplay/Multiplay.unity
+    guid: abe6b5907de7dc84fa7958f8d906353a
+  - enabled: 1
+    path: Assets/Scenes/Menu/Singleplay/Singleplay.unity
+    guid: 1ce44f037c4582840968ce3007caf33f
+  - enabled: 1
+    path: Assets/Scenes/Menu/Preferences/Settings/Settings.unity
+    guid: a4a8523a200def046b62fa0cc7b2a759
+  - enabled: 1
+    path: Assets/Scenes/Menu/Preferences/Characters/Characters.unity
+    guid: 51690542a13efa747ac6a6ab8f2f56d1
+  - enabled: 1
+    path: Assets/Scenes/Menu/Preferences/PreferencesClothes/PreferencesClothes.unity
+    guid: cc8b3aae4e3e79944a0d8dd8affe8e34
+  - enabled: 1
+    path: Assets/Scenes/Menu/Preferences/PreferencesWeapons/PreferencesWeapons.unity
+    guid: 848b0a3dbf369d547a748db6a7547308
+  - enabled: 1
+    path: Assets/Scenes/Menu/Market/MarketClothes/MarketClothes.unity
+    guid: 159a479682f80054ca87d666afb4c71f
+  - enabled: 1
+    path: Assets/Scenes/Menu/Market/MarketWeapons/MarketWeapons.unity
+    guid: 0ce2e64085f9a8e418b2d46bd8721450
+  - enabled: 1
+    path: Assets/Scenes/Menu/Singleplay/Training.unity
+    guid: dc7c0b4d6432d9f4ea6975f1ebba4893
+  m_configObjects: {}
